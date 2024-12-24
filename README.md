@@ -1,6 +1,6 @@
 # Ollama Chat Interface
 
-A Streamlit-based web interface for interacting with Ollama language models using colab and ngrok to run the model.
+A Streamlit-based web interface for interacting with Ollama using colab and ngrok to run the model.
 
 ## Prerequisites
 
